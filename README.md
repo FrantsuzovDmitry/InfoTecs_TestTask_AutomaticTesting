@@ -1,0 +1,1 @@
+# InfoTecs_TestTask_AutomaticTesting
